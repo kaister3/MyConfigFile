@@ -39,4 +39,5 @@ alias mysql='/usr/local/mysql/bin/mysql'
 export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles
 # source ~/.bash_profile
 
+export PATH=$PATH:/Users/kaisterwang/anaconda3/bin/
 export PATH=$PATH:/usr/local/Cellar/tomcat/9.0.17/bin/
